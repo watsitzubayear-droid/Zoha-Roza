@@ -1,0 +1,7 @@
+{
+  "name": "Nexus AI Market Oracle",
+  "description": "An advanced AI-powered binary options signaling platform. Analyze market screenshots and generate high-probability (80%+) 1-minute signals in BDT timeframe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
